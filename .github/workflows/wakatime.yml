@@ -2,7 +2,7 @@ name: WakaTime
 
 on:
   schedule:
-    - cron: '0 0 * * 0' # 매주 일요일 자정에 실행
+    - cron: "0 0 * * 0" # 매주 일요일 자정에 실행
   push:
     branches:
       - main
@@ -12,12 +12,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3 # 업데이트된 버전
 
       - name: Set up Node.js
-        uses: actions/setup-node@v2
+        uses: actions/setup-node@v3 # 업데이트된 버전
         with:
-          node-version: '14'
+          node-version: "20"
 
       - name: Install WakaTime Weekly Metrics
         run: npm install -g waka-readme-stats
@@ -26,4 +26,3 @@ jobs:
         env:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
         run: waka-readme-stats --api-key $WAKATIME_API_KEY --config-path ./wakatime.json --readme-path ./README.md
-
