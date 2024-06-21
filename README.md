@@ -5,6 +5,11 @@
 <h1 align="center">Hi 👋, I'm Wooju Lee</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
+<h3 align="left">Contact</h3>
+<p align="center">
+  wooju_0507@naver.com
+</p>
+
 <h3 align="left">Technical Skills</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>&nbsp 
@@ -31,42 +36,35 @@
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.3%20million%20lines%20of%20code-blue)
 
-**I'm a Night 🦉** 
+**I'm a Night 🦉**
 
 ```text
-🌞 Morning                48 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.91 % 
-🌆 Daytime                120 commits         ███████░░░░░░░░░░░░░░░░░░   29.78 % 
-🌃 Evening                145 commits         █████████░░░░░░░░░░░░░░░░   35.98 % 
-🌙 Night                  90 commits          ██████░░░░░░░░░░░░░░░░░░░   22.33 % 
+🌞 Morning                48 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.91 %
+🌆 Daytime                120 commits         ███████░░░░░░░░░░░░░░░░░░   29.78 %
+🌃 Evening                145 commits         █████████░░░░░░░░░░░░░░░░   35.98 %
+🌙 Night                  90 commits          ██████░░░░░░░░░░░░░░░░░░░   22.33 %
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 🕑︎ Time Zone: Asia/Seoul
 
-💬 Programming Languages: 
-C                        6 hrs 49 mins       █████████████████░░░░░░░░   66.89 % 
-Other                    3 hrs 22 mins       ████████░░░░░░░░░░░░░░░░░   33.11 % 
+💬 Programming Languages:
+C                        6 hrs 49 mins       █████████████████░░░░░░░░   66.89 %
+Other                    3 hrs 22 mins       ████████░░░░░░░░░░░░░░░░░   33.11 %
 
-🔥 Editors: 
-VS Code                  10 hrs 12 mins      █████████████████████████   100.00 % 
+🔥 Editors:
+VS Code                  10 hrs 12 mins      █████████████████████████   100.00 %
 
-💻 Operating System: 
-Linux                    9 hrs 16 mins       ███████████████████████░░   90.90 % 
-Mac                      55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.10 % 
+💻 Operating System:
+Linux                    9 hrs 16 mins       ███████████████████████░░   90.90 %
+Mac                      55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.10 %
 ```
 
+Last Updated on 2024/06/21/ 13:39:31 UTC
 
- Last Updated on 2024/06/21/ 13:39:31 UTC
 <!--END_SECTION:waka-->
-
-<h3 align="left">Contact</h3>
-<p align="center">
-  wooju_0507@naver.com
-</p>
-
 
 <!--
 **wj-cosmos57/wj-cosmos57** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
