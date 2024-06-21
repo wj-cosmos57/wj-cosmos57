@@ -1,0 +1,29 @@
+name: WakaTime
+
+on:
+  schedule:
+    - cron: '0 0 * * 0' # 매주 일요일 자정에 실행
+  push:
+    branches:
+      - main
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: '14'
+
+      - name: Install WakaTime Weekly Metrics
+        run: npm install -g waka-readme-stats
+
+      - name: Update README with WakaTime Metrics
+        env:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+        run: waka-readme-stats --api-key $WAKATIME_API_KEY --config-path ./wakatime.json --readme-path ./README.md
+
