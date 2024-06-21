@@ -27,11 +27,13 @@
   <a href="http://vis.ssu.ac.kr/" target="_blank"><strong><em>VIS Lab</em></strong></a> (2023.07 ~ )
 </h4>
 
+<h3 align="left">Programming Stats</h3>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <h3 align="left">Contact</h3>
 <p align="center">
   wooju_0507@naver.com
-  <br>
-  wooju0507@vis.ssu.ac.kr
 </p>
 
 
