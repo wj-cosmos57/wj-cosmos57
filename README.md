@@ -5,11 +5,6 @@
 <h1 align="center">Hi 👋, I'm Wooju Lee</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-<h3 align="left">Contact</h3>
-<p align="center">
-  wooju_0507@naver.com
-</p>
-
 <h3 align="left">Technical Skills</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>&nbsp 
@@ -31,6 +26,11 @@
   <code>Data Visualization Research Student</code> at 
   <a href="http://vis.ssu.ac.kr/" target="_blank"><strong><em>VIS Lab</em></strong></a> (2023.07 ~ )
 </h4>
+
+<h3 align="left">Contact</h3>
+<p align="center">
+  wooju_0507@naver.com
+</p>
 
 <h3 align="left">Programming Stats</h3>
 <!--START_SECTION:waka-->
