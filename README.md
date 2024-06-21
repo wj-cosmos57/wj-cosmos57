@@ -35,8 +35,6 @@
 
 <h3 align="left">Programming Stats</h3>
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.3%20million%20lines%20of%20code-blue)
-
 **I'm a Night 🦉** 
 
 ```text
@@ -65,7 +63,7 @@ Mac                      55 mins             ██░░░░░░░░░�
 ```
 
 
- Last Updated on 2024/06/21/ 14:07:53 UTC
+ Last Updated on 2024/06/21/ 14:11:19 UTC
 <!--END_SECTION:waka-->
 
 <!--
