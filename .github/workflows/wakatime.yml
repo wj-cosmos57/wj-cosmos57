@@ -22,7 +22,7 @@ jobs:
           # COMMIT_EMAIL
           SHOW_UPDATED_DATE: "True"
           UPDATED_DATE_FORMAT: "%Y/%m/%d/ %H:%M:%S"
-          SHOW_LINES_OF_CODE: "True"
+          # SHOW_LINES_OF_CODE: "True"
           SHOW_TOTAL_CODE_TIME: "False"
           SHOW_PROFILE_VIEWS: "False"
           # SHOW_COMMIT: "False"
