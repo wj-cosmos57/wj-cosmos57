@@ -10,14 +10,16 @@
 <p align="center">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>&nbsp 
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>&nbsp 
+  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/Javascript-f0db4e?style=flat-square&logo=javascript&logoColor=white"/>&nbsp 
   <br>
+  <img src="https://img.shields.io/badge/React-61dafb?style=flat-square&logo=React&logoColor=white"/>&nbsp 
+  <img src="https://img.shields.io/badge/Javascript-f0db4e?style=flat-square&logo=javascript&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>&nbsp 
+  <br>
+  <img src="https://img.shields.io/badge/React%20Native-61dafb?style=flat-square&logo=React&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>&nbsp 
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>&nbsp 
-  <img src="https://img.shields.io/badge/React-61dafb?style=flat-square&logo=React&logoColor=white"/>&nbsp 
-  <img src="https://img.shields.io/badge/React%20Native-61dafb?style=flat-square&logo=React&logoColor=white"/>&nbsp
   <br>
   <img src="https://img.shields.io/badge/D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white"/>&nbsp
 </p>
