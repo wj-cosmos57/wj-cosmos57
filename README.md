@@ -41,9 +41,9 @@
 
 ```text
 🌞 Morning                271 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.23 % 
-🌆 Daytime                1236 commits        ████████░░░░░░░░░░░░░░░░░   33.00 % 
-🌃 Evening                1451 commits        ██████████░░░░░░░░░░░░░░░   38.73 % 
-🌙 Night                  788 commits         █████░░░░░░░░░░░░░░░░░░░░   21.04 % 
+🌆 Daytime                1236 commits        ████████░░░░░░░░░░░░░░░░░   32.98 % 
+🌃 Evening                1451 commits        ██████████░░░░░░░░░░░░░░░   38.71 % 
+🌙 Night                  790 commits         █████░░░░░░░░░░░░░░░░░░░░   21.08 % 
 ```
 
 
@@ -53,23 +53,23 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-TypeScript               12 hrs 16 mins      ██████████████████████░░░   87.32 % 
-JavaScript               1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   07.12 % 
-Git Config               36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
-JSON                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
+TypeScript               11 hrs 2 mins       ███████████████████████░░   90.50 % 
+JavaScript               1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 % 
+JSON                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-VS Code                  13 hrs 53 mins      █████████████████████████   98.76 % 
-Antigravity              10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
+VS Code                  12 hrs 1 min        █████████████████████████   98.57 % 
+Antigravity              10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
 
 💻 Operating System: 
-Windows                  13 hrs 17 mins      ████████████████████████░   94.54 % 
-Mac                      46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
+Windows                  11 hrs 26 mins      ███████████████████████░░   93.71 % 
+Mac                      46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.29 % 
 ```
 
 
- Last Updated on 2026/03/10/ 16:00:12 UTC
+ Last Updated on 2026/03/11/ 15:46:12 UTC
 <!--END_SECTION:waka-->
 
 <!--
