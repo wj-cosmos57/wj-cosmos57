@@ -41,9 +41,9 @@
 
 ```text
 🌞 Morning                271 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.12 % 
-🌆 Daytime                1248 commits        ████████░░░░░░░░░░░░░░░░░   32.81 % 
-🌃 Evening                1475 commits        ██████████░░░░░░░░░░░░░░░   38.77 % 
-🌙 Night                  810 commits         █████░░░░░░░░░░░░░░░░░░░░   21.29 % 
+🌆 Daytime                1251 commits        ████████░░░░░░░░░░░░░░░░░   32.85 % 
+🌃 Evening                1475 commits        ██████████░░░░░░░░░░░░░░░   38.73 % 
+🌙 Night                  811 commits         █████░░░░░░░░░░░░░░░░░░░░   21.30 % 
 ```
 
 
@@ -53,20 +53,20 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-TypeScript               11 mins             ████████████████████████░   97.74 % 
-JavaScript               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
+TypeScript               7 mins              ████████████████████████░   96.36 % 
+JavaScript               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
 
 🔥 Editors: 
-VS Code                  7 mins              ███████████████░░░░░░░░░░   61.72 % 
-Antigravity              4 mins              ██████████░░░░░░░░░░░░░░░   38.28 % 
+VS Code                  7 mins              █████████████████████████   99.39 % 
+Antigravity              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
 
 💻 Operating System: 
-Mac                      7 mins              ███████████████░░░░░░░░░░   61.72 % 
-Windows                  4 mins              ██████████░░░░░░░░░░░░░░░   38.28 % 
+Mac                      7 mins              █████████████████████████   99.39 % 
+Windows                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
 ```
 
 
- Last Updated on 2026/03/14/ 15:26:44 UTC
+ Last Updated on 2026/03/15/ 15:27:54 UTC
 <!--END_SECTION:waka-->
 
 <!--
