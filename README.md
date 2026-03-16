@@ -40,10 +40,10 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                271 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.12 % 
-🌆 Daytime                1251 commits        ████████░░░░░░░░░░░░░░░░░   32.85 % 
-🌃 Evening                1475 commits        ██████████░░░░░░░░░░░░░░░   38.73 % 
-🌙 Night                  811 commits         █████░░░░░░░░░░░░░░░░░░░░   21.30 % 
+🌞 Morning                271 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.11 % 
+🌆 Daytime                1252 commits        ████████░░░░░░░░░░░░░░░░░   32.87 % 
+🌃 Evening                1475 commits        ██████████░░░░░░░░░░░░░░░   38.72 % 
+🌙 Night                  811 commits         █████░░░░░░░░░░░░░░░░░░░░   21.29 % 
 ```
 
 
@@ -53,20 +53,24 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-TypeScript               7 mins              ████████████████████████░   96.36 % 
-JavaScript               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
+TypeScript               19 mins             ███████████████████░░░░░░   76.29 % 
+YAML                     4 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.18 % 
+Bash                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
+Python                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
 
 🔥 Editors: 
-VS Code                  7 mins              █████████████████████████   99.39 % 
-Antigravity              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
+VS Code                  13 mins             █████████████░░░░░░░░░░░░   52.31 % 
+Antigravity              11 mins             ████████████░░░░░░░░░░░░░   47.69 % 
 
 💻 Operating System: 
-Mac                      7 mins              █████████████████████████   99.39 % 
-Windows                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
+Windows                  11 mins             ████████████░░░░░░░░░░░░░   47.69 % 
+Mac                      7 mins              ███████░░░░░░░░░░░░░░░░░░   29.81 % 
+Linux                    5 mins              ██████░░░░░░░░░░░░░░░░░░░   22.50 % 
 ```
 
 
- Last Updated on 2026/03/15/ 15:27:54 UTC
+ Last Updated on 2026/03/16/ 16:05:32 UTC
 <!--END_SECTION:waka-->
 
 <!--
