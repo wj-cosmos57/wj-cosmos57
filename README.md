@@ -53,25 +53,25 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-TypeScript               2 hrs 52 mins       ██████░░░░░░░░░░░░░░░░░░░   24.72 % 
-Python                   2 hrs 24 mins       █████░░░░░░░░░░░░░░░░░░░░   20.77 % 
-JavaScript               2 hrs 3 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.69 % 
-Bash                     1 hr 19 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.44 % 
-Markdown                 53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 % 
+TypeScript               3 hrs 28 mins       ██████░░░░░░░░░░░░░░░░░░░   24.39 % 
+JavaScript               2 hrs 50 mins       █████░░░░░░░░░░░░░░░░░░░░   19.88 % 
+Python                   2 hrs 24 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.92 % 
+Markdown                 1 hr 36 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.28 % 
+Bash                     1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.32 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 24 mins       ████████████████████░░░░░   80.84 % 
-Antigravity              2 hrs 13 mins       █████░░░░░░░░░░░░░░░░░░░░   19.16 % 
+VS Code                  12 hrs 2 mins       █████████████████████░░░░   84.39 % 
+Antigravity              2 hrs 13 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.61 % 
 
 💻 Operating System: 
-WSL                      7 hrs 19 mins       ████████████████░░░░░░░░░   62.98 % 
-Mac                      2 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.80 % 
-Linux                    1 hr 25 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.19 % 
-Windows                  49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.03 % 
+WSL                      7 hrs 19 mins       █████████████░░░░░░░░░░░░   51.31 % 
+Mac                      3 hrs 58 mins       ███████░░░░░░░░░░░░░░░░░░   27.80 % 
+Windows                  1 hr 33 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.96 % 
+Linux                    1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.93 % 
 ```
 
 
- Last Updated on 2026/03/20/ 15:41:56 UTC
+ Last Updated on 2026/03/21/ 15:24:27 UTC
 <!--END_SECTION:waka-->
 
 <!--
