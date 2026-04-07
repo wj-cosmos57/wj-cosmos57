@@ -40,10 +40,10 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                283 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.33 % 
-🌆 Daytime                1272 commits        ████████░░░░░░░░░░░░░░░░░   32.95 % 
-🌃 Evening                1493 commits        ██████████░░░░░░░░░░░░░░░   38.68 % 
-🌙 Night                  812 commits         █████░░░░░░░░░░░░░░░░░░░░   21.04 % 
+🌞 Morning                283 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.27 % 
+🌆 Daytime                1288 commits        ████████░░░░░░░░░░░░░░░░░   33.07 % 
+🌃 Evening                1505 commits        ██████████░░░░░░░░░░░░░░░   38.64 % 
+🌙 Night                  819 commits         █████░░░░░░░░░░░░░░░░░░░░   21.03 % 
 ```
 
 
@@ -53,25 +53,24 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-TypeScript               9 hrs 18 mins       ████████████░░░░░░░░░░░░░   48.16 % 
-Other                    4 hrs 33 mins       ██████░░░░░░░░░░░░░░░░░░░   23.60 % 
-Python                   2 hrs 38 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.68 % 
-JavaScript               54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
-Markdown                 51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
+TypeScript               8 hrs 29 mins       ██████████░░░░░░░░░░░░░░░   40.61 % 
+Other                    7 hrs 24 mins       █████████░░░░░░░░░░░░░░░░   35.44 % 
+Python                   3 hrs 9 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.09 % 
+Markdown                 43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
+JavaScript               38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
 
 🔥 Editors: 
-VS Code                  17 hrs 28 mins      ███████████████████████░░   90.40 % 
-Unknown Editor           1 hr 51 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.60 % 
+VS Code                  20 hrs 55 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-WSL                      9 hrs 38 mins       ████████████░░░░░░░░░░░░░   49.92 % 
-Mac                      8 hrs 55 mins       ████████████░░░░░░░░░░░░░   46.16 % 
-Windows                  41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
-Linux                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+WSL                      10 hrs 39 mins      █████████████░░░░░░░░░░░░   50.92 % 
+Mac                      8 hrs 55 mins       ███████████░░░░░░░░░░░░░░   42.66 % 
+Windows                  1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.14 % 
+Linux                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
 ```
 
 
- Last Updated on 2026/04/06/ 15:44:53 UTC
+ Last Updated on 2026/04/07/ 16:10:50 UTC
 <!--END_SECTION:waka-->
 
 <!--
