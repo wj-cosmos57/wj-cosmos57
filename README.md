@@ -40,10 +40,10 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                295 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
-🌆 Daytime                1267 commits        ████████░░░░░░░░░░░░░░░░░   33.80 % 
-🌃 Evening                1426 commits        ██████████░░░░░░░░░░░░░░░   38.04 % 
-🌙 Night                  761 commits         █████░░░░░░░░░░░░░░░░░░░░   20.30 % 
+🌞 Morning                295 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 % 
+🌆 Daytime                1268 commits        ████████░░░░░░░░░░░░░░░░░   33.80 % 
+🌃 Evening                1427 commits        ██████████░░░░░░░░░░░░░░░   38.04 % 
+🌙 Night                  761 commits         █████░░░░░░░░░░░░░░░░░░░░   20.29 % 
 ```
 
 
@@ -53,22 +53,22 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Markdown                 2 hrs 54 mins       █████████░░░░░░░░░░░░░░░░   36.02 % 
-Other                    2 hrs 11 mins       ███████░░░░░░░░░░░░░░░░░░   27.17 % 
-TypeScript               1 hr 39 mins        █████░░░░░░░░░░░░░░░░░░░░   20.51 % 
-Python                   29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
-JavaScript               28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
+Markdown                 4 hrs 23 mins       ███████████░░░░░░░░░░░░░░   44.22 % 
+Other                    2 hrs 25 mins       ██████░░░░░░░░░░░░░░░░░░░   24.46 % 
+TypeScript               1 hr 43 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.28 % 
+JavaScript               33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.60 % 
+Python                   29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.01 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 4 mins        █████████████████████████   100.00 % 
+VS Code                  9 hrs 56 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      4 hrs 19 mins       █████████████░░░░░░░░░░░░   53.50 % 
-WSL                      3 hrs 45 mins       ████████████░░░░░░░░░░░░░   46.50 % 
+Mac                      6 hrs 1 min         ███████████████░░░░░░░░░░   60.63 % 
+WSL                      3 hrs 54 mins       ██████████░░░░░░░░░░░░░░░   39.37 % 
 ```
 
 
- Last Updated on 2026/05/29/ 18:12:50 UTC
+ Last Updated on 2026/05/30/ 16:04:26 UTC
 <!--END_SECTION:waka-->
 
 <!--
