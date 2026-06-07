@@ -37,39 +37,8 @@
 
 <h3 align="left">Programming Stats</h3>
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
 
-```text
-🌞 Morning                297 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 % 
-🌆 Daytime                1268 commits        ████████░░░░░░░░░░░░░░░░░   33.73 % 
-🌃 Evening                1430 commits        ██████████░░░░░░░░░░░░░░░   38.04 % 
-🌙 Night                  764 commits         █████░░░░░░░░░░░░░░░░░░░░   20.32 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Seoul
-
-💬 Programming Languages: 
-TypeScript               6 hrs 11 mins       █████████████░░░░░░░░░░░░   53.68 % 
-Other                    1 hr 58 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.12 % 
-JavaScript               1 hr 32 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.31 % 
-HTML                     1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.95 % 
-Python                   19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
-
-🔥 Editors: 
-VS Code                  11 hrs 32 mins      █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Mac                      6 hrs 56 mins       ███████████████░░░░░░░░░░   60.11 % 
-WSL                      2 hrs 35 mins       ██████░░░░░░░░░░░░░░░░░░░   22.41 % 
-Windows                  2 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   17.48 % 
-```
-
-
- Last Updated on 2026/06/06/ 16:06:41 UTC
+ Last Updated on 2026/06/07/ 16:13:40 UTC
 <!--END_SECTION:waka-->
 
 <!--
