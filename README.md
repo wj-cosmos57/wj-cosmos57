@@ -53,23 +53,23 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-TypeScript               4 hrs 27 mins       ██████████░░░░░░░░░░░░░░░   39.14 % 
-JavaScript               3 hrs 45 mins       ████████░░░░░░░░░░░░░░░░░   32.96 % 
-Other                    1 hr 45 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.40 % 
-Python                   40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
-JSON                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
+TypeScript               2 hrs 44 mins       ████████░░░░░░░░░░░░░░░░░   30.50 % 
+JavaScript               2 hrs 39 mins       ███████░░░░░░░░░░░░░░░░░░   29.62 % 
+Other                    1 hr 46 mins        █████░░░░░░░░░░░░░░░░░░░░   19.79 % 
+Python                   40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 % 
+Markdown                 34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.33 % 
 
 🔥 Editors: 
-VS Code                  11 hrs 23 mins      █████████████████████████   100.00 % 
+VS Code                  8 hrs 59 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      5 hrs 28 mins       ████████████░░░░░░░░░░░░░   48.08 % 
-Windows                  4 hrs 13 mins       █████████░░░░░░░░░░░░░░░░   37.12 % 
-WSL                      1 hr 41 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.79 % 
+Mac                      3 hrs 56 mins       ███████████░░░░░░░░░░░░░░   43.93 % 
+Windows                  3 hrs 21 mins       █████████░░░░░░░░░░░░░░░░   37.33 % 
+WSL                      1 hr 41 mins        █████░░░░░░░░░░░░░░░░░░░░   18.74 % 
 ```
 
 
- Last Updated on 2026/06/12/ 17:37:43 UTC
+ Last Updated on 2026/06/13/ 16:14:04 UTC
 <!--END_SECTION:waka-->
 
 <!--
